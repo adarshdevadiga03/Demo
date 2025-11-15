@@ -30,6 +30,7 @@ marks.insert(2,99)
 print(marks)
 
 # STRINGS ARE IMMUTABLE
-#name="soumya"
+#name="adarsh"
 #name[1]= "ddhudfc"
+
 #print(name)
